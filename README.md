@@ -1,4 +1,3 @@
-
 #DEMO-ONE-ASSESTS-LUX
 
 A Demo UI for the integration of react, redux and Three js. It uses material UI as the component library.
