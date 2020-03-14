@@ -1,0 +1,1 @@
+export { default as cameraConfig } from './cameraConfiguration'; 
